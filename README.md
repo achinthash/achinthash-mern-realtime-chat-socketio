@@ -61,7 +61,7 @@ npm install
 ```
 
 -   Create `uploads` file inside `backend` folder:
--   
+
 
 -   Create `.env` file inside `backend` folder:
     
