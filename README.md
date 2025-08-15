@@ -47,7 +47,7 @@ Supports **private chat**, **group chat**, **online status**, and **file sharing
 
 ```bash
 
-git  clone  https://github.com/achinthash/mern-realtime-chat-socketio.git
+git  clone https://github.com/achinthash/achinthash-mern-realtime-chat-socketio.git
 
 cd  mern-realtime-chat-app
 ```
@@ -59,6 +59,9 @@ cd backend
 
 npm install
 ```
+
+-   Create `uploads` file inside `backend` folder:
+-   
 
 -   Create `.env` file inside `backend` folder:
     
